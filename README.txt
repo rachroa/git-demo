@@ -1,5 +1,5 @@
 Add this line
-
+Adding this again
 
 Notepad++ v8.5.2 bug-fixes and new features:
 
